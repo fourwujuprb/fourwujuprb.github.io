@@ -1,0 +1,18 @@
+hr {
+    margin-bottom: 0;
+}
+
+.icon {
+    padding: 20px;
+    margin: 50px;
+    border-radius: 50px;
+    color: brown;
+    background-color: rgb(221, 211, 211);
+}
+
+h1 {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 300;
+}

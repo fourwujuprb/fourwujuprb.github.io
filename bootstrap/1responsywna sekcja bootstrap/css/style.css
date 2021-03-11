@@ -3,11 +3,14 @@ hr {
 }
 
 .icon {
-    padding: 20px;
-    margin: 50px;
-    border-radius: 50px;
+   width: 100px;
+    height: 100px;
+    border-radius: 50%;
     color: brown;
     background-color: rgb(221, 211, 211);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
